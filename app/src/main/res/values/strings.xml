@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TabLayoutExample</string>
+    <string name="page1">Page 1</string>
+    <string name="page2">Page 2</string>
 </resources>
